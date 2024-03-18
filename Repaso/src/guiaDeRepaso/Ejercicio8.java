@@ -2,8 +2,9 @@ package guiaDeRepaso;
 
 public class Ejercicio8 {
 
-	static void mostrarLosNprimerosNaturales(int n)
+	public static void mostrarLosNprimerosNaturales(int n)
 	{
+		int i =0;
 		for(i = 0; i < n;i++);
 			System.out.println(i);
 	}
